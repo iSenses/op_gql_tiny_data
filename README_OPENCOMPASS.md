@@ -9,20 +9,19 @@ sub_dimension:
 - gql
 website: https://github.com/iSenses/op_gql_tiny_data
 github: https://github.com/iSenses/op_gql_tiny_data
-paper: 
-release_date: {2024-04-30}
+paper: https://github.com/iSenses/op_gql_tiny_data
+release_date: 2024-04-30
 tag:
 - cypher
 - query
 - text
 download_url: https://github.com/iSenses/op_gql_tiny_data
-cn: # optional, for chinese version website
 
 ---
 ## Introduction
 A Tiny GQL dataset means as example for further GQL data collection and exploration.
 ## Meta Data
-- cypher
+- code: cypher
 - datasize: 36
 - language: English
 ## Example
