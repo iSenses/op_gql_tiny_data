@@ -1,3 +1,4 @@
+感谢OpenXLab提供学习机会， 这目前还是一个toy数据集, 用来测试opencompass.org.cn上传数据集。
 ---
 name: GQL_Tiny
 desc: A Tiny GQL dataset means as seed for further GQL data collection and exploration.
